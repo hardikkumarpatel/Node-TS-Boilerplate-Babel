@@ -1,0 +1,1 @@
+{"version":3,"file":"User.definations.js","names":[],"sources":["../../../src/helpers/interfaces/User.definations.ts"],"sourcesContent":["export interface IUser {\n  name: string;\n  email: string;\n}\n"],"mappings":"","ignoreList":[]}
