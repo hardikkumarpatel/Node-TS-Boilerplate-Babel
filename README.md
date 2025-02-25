@@ -87,4 +87,4 @@ docker build -t node-typescript-app .
 
 # 😈 Authors
 
-- **Fullstack Team** ⚔️
+- **Hardik Patel** ⚔️
